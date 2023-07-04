@@ -1,3 +1,4 @@
+https://user-images.githubusercontent.com/85429816/226835491-4e6aa086-a4a6-470c-910f-72f5d4120c1d.mp4
 ## Getting Started
 
 First, run the development server:
